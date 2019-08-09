@@ -3,8 +3,8 @@
 
 > A lightweight documentation hub for all of IT's fomalized knowledge
 
-[Technical Docs](https://github.com/docsifyjs/docsify/)
-[Non-Technical Docs](Non-Technical/ServiceNow.md)
+[Edit or Add Docs](https://github.com/BryanSeelyPointB/BARK)
+[Get Started](README.md)
 
 <!-- background color -->
 ![color](#f0f0f0)

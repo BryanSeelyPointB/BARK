@@ -12,17 +12,24 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      loadSidebar: true,
       coverpage: true,
       onlyCover: true,
       auto2top: true,
       autoHeader: false,
       subMaxLevel: 3,
       maxLevel: 4,
+      repo: 'https://github.com/BryanSeelyPointB/BARK',
       logo: '_media/logo.png',
       name: 'BARK',
-      loadSidebar: true
+      search: {
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results.',
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
